@@ -1,0 +1,9 @@
+MIDlet-1: Falldown, Falldown.png, Falldown
+MIDlet-Description: Jeu d'arcade
+MIDlet-Jar-Size: 33314
+MIDlet-Jar-URL: Falldown.jar
+MIDlet-Name: Falldown
+MIDlet-Vendor: Laurent Herbin
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
